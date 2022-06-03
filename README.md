@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/XPQqhry.png" width="100%">
 
-# Hey! <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="30px">
+# Hey! 👋
 My name is Muhammad Umar Ali and I am currently a Biomedical Engineering Student from the University of British Columbia. I am also an aspiring scientist with a passion for research, medicine, and computer science.
 
 ## 🔧 Technologies & Tools 
