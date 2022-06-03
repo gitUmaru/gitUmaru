@@ -30,7 +30,7 @@ My name is Muhammad Umar Ali and I am currently a Biomedical Engineering Student
 A wannabe scientist who pretends to know what hes doing and sometime codes too.
 
 ## 📚 My other interests
-Other  interests: Cellular Bioengineering, Stem Cells, Cancer Biology, Plant Bioinformatics and Dungeons & Dragons! I also write about my projects and general opinions but writing is hard, check me out on [Medium](https://medium.com/@umar.ali). 
+Other  interests: Cellular Bioengineering, Stem Cells, Cancer Biology, Plant Bioinformatics and Dungeons & Dragons! I also write about my projects and general opinions but writing is hard, check me out on [Medium](https://umar-ali.medium.com/). 
 
 ## 💬 Contact Me
 You can find me on: [My website](https://umarali.ca) and on [Email](mailto:umaruali@student.ubc.ca).
