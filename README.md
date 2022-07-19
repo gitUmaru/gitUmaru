@@ -33,7 +33,7 @@ A wannabe scientist who pretends to know what hes doing and sometime codes too.
 Other  interests: Cellular Bioengineering, Stem Cells, Cancer Biology, Plant Bioinformatics and Dungeons & Dragons! I also write about my projects and general opinions but writing is hard, check me out on [Medium](https://umar-ali.medium.com/). 
 
 ## 💬 Contact Me
-You can find me on: [My website](https://umarali.ca) and on [Email](mailto:umaruali@student.ubc.ca).
+You can find me on: <a href="https://umarali.ca/" target="_blank">my website</a> and on [Email](mailto:umaruali@student.ubc.ca).
 
 ### Other
 You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2] but I dont use as often.
