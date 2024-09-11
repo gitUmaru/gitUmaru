@@ -1,7 +1,7 @@
-<img src="https://i.imgur.com/XPQqhry.png" width="100%">
+<img src="https://i.imgur.com/2MU03NK.png" width="100%">
 
 # Hey! 👋
-My name is Muhammad Umar Ali and I am currently a Biomedical Engineering Student from the University of British Columbia. I am also an aspiring scientist with a passion for research, medicine, and computer science.
+My name is Muhammad Umar Ali and I am currently a PhD Student at the University of Waterloo. I am also an aspiring student of knowledge with a passion for research, medicine, and computer science.
 
 ## 🔧 Technologies & Tools 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=4c8bf5 )
@@ -30,17 +30,5 @@ My name is Muhammad Umar Ali and I am currently a Biomedical Engineering Student
 A wannabe scientist who pretends to know what hes doing and sometime codes too.
 
 ## 📚 My other interests
-Other  interests: Cellular Bioengineering, Stem Cells, Cancer Biology, Plant Bioinformatics and Dungeons & Dragons! I also write about my projects and general opinions but writing is hard, check me out on [Medium](https://umar-ali.medium.com/). 
-
-## 💬 Contact Me
-You can find me on: <a href="https://umarali.ca/" target="_blank">my website</a> and on [Email](mailto:umaruali@student.ubc.ca).
-
-### Other
-You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2] but I dont use as often.
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-[1]: https://twitter.com/umarualia
-[2]: https://www.linkedin.com/in/muhammad-umar-ali/
+Other  interests: cellular bioengineering, stem cells, cancer biology, translational medicine and Dungeons & Dragons! I also write about my projects and general opinions but writing is hard, check me out on [Medium](https://umar-ali.medium.com/). 
 
