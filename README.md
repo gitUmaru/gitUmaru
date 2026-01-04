@@ -1,4 +1,10 @@
-<img src="gh_cover.png" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="gh_cover.png">
+  <source media="(prefers-color-scheme: light)" srcset="gh_cover-dark.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+
 
 # Hey! 👋
 My name is Muhammad Umar Ali and I am currently a PhD Student at the University of Waterloo. I currently research how we can engineer methods to record light-matter interactions for imaging tissue at the microscopic scale. I did my undergraduate training at the University of British Columbia with a concentration in bioinformatics. I am also an aspiring student of knowledge with a passion for research, medicine, and computer science.
