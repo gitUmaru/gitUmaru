@@ -1,8 +1,9 @@
-<img src="https://i.imgur.com/2MU03NK.png" width="100%">
+<img src="gh_cover.png" width="100%">
 
 # Hey! 👋
-My name is Muhammad Umar Ali and I am currently a PhD Student at the University of Waterloo. I am also an aspiring student of knowledge with a passion for research, medicine, and computer science.
+My name is Muhammad Umar Ali and I am currently a PhD Student at the University of Waterloo. I currently research how we can engineer methods to record light-matter interactions for imaging tissue at the microscopic scale. I did my undergraduate training at the University of British Columbia with a concentration in bioinformatics. I am also an aspiring student of knowledge with a passion for research, medicine, and computer science.
 
+<!--
 ## 🔧 Technologies & Tools 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=4c8bf5 )
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=4c8bf5 )
@@ -24,11 +25,11 @@ My name is Muhammad Umar Ali and I am currently a PhD Student at the University 
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=de5246 )
 ![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=ffce44 )
 ![](https://img.shields.io/badge/Hardware-RasperberryPi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=ffce44 )
-
+-->
 
 ## ⚡ One line that describes me best? 
 A wannabe scientist who pretends to know what hes doing and sometime codes too.
 
 ## 📚 My other interests
-Other  interests: cellular bioengineering, stem cells, cancer biology, translational medicine and Dungeons & Dragons! I also write about my projects and general opinions but writing is hard, check me out on [Medium](https://umar-ali.medium.com/). 
+Some of my non-academic interests include: literature, entrepeneurship and dungeons & dragons! In an effort to become a more "learned person", I'm trying to write more so I've started a substack blog, please check it out @ [umara.substack.com](https://umara.substack.com/). 
 
