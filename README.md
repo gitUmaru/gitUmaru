@@ -7,7 +7,7 @@
 
 
 # Hey! 👋
-My name is Muhammad Umar Ali and I am currently a PhD Student at the University of Waterloo. I currently research how we can engineer methods to record light-matter interactions for imaging tissue at the microscopic scale.
+My name is Muhammad Umar Ali and I am currently a PhD Candidate at the University of Waterloo. I currently research how we can engineer methods to record light-matter interactions for imaging tissue at the microscopic scale.
 I did my undergraduate training at the University of British Columbia with a concentration in bioinformatics.
 <!-- I am also an aspiring student of knowledge with a passion for research, medicine, and computer science. -->
 
